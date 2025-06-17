@@ -3,7 +3,7 @@ from agents.citation_agent import fetch_citations
 
 def run_graph(text):
     summary = summarize_text(text)
-    citations = fetch_citations(summary[:300])  # limit to avoid long queries
+    citations = fetch_citations(summary[:300])  
     return {
         "summary": summary,
         "citations": citations
