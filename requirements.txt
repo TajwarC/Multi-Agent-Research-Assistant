@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+openai
+PyMuPDF
+requests
+faiss-cpu
+python-dotenv
