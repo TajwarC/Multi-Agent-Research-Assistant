@@ -3,6 +3,7 @@ langchain
 langgraph
 openai
 PyMuPDF
+fitz
 requests
 faiss-cpu
 python-dotenv
